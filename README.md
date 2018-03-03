@@ -16,7 +16,7 @@ $ wget -r -np -nH --cut-dirs=3 -R index.html* -R *r.jpg -R *h.jpg http://data.to
 ```
 This command excludes cards in horizontal, reversed, and horizontal reversed positions.
 
-The cards are all 350x600px, and are around 7.6MB total.
+The cards are all 350x600px, and are 7.37MB total.
 
 ## Copyright and license
 The [Rider-Waite-Smith deck][0] is public domain in the US, [but not currently in the EU][1].
