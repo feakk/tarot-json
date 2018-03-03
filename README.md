@@ -1,5 +1,5 @@
 <center>
-<img align="left" src="/unsmell/tarot-json/raw/master/cards/m00.jpg" height="120">
+<img align="left" src="cards/m00.jpg" height="120">
 <h1>Tarot dataset</h1>
 </center>
 
